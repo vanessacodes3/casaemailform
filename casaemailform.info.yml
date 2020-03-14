@@ -1,0 +1,6 @@
+name: CASA Email Form
+description: Creates an email form.
+package: CASA
+
+type: module
+core: 8.x
